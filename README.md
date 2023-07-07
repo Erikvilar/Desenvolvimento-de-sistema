@@ -1,2 +1,3 @@
-# Desenvolvimento-de-sistema
-Este repositorio e destinado ao trabalho-02 de Fundamento de TSI
+#site simples de convesão de unidades binaria decimal e hexa
+#html, css,js
+#07/2023
