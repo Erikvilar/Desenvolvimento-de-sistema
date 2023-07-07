@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.background a{
+   
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid yellow;
+    padding: 15px;
+    border-radius: 20px;
+
+}.background h2{
+    margin-top: 10px;
+    
+}
+.conversor {
+    display: flex;
+    flex-direction: column;
+    margin: auto;   
+ 
+
+}.conversor h1{
+    font-size: 30px;
+    color: rgb(75, 75, 75);
+    text-align: center;
+    padding-top: 30px;
+}
+.conversor button{
+    
+    padding: 20px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(2, 48, 89);
+    border-radius: 20px;
+    font-weight: 800;
+    border: 2px solid yellow;
+    overflow-x: hidden;
+
+   
+    
+
+}.conversor > div{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+   
+   
+}.conversor input[type="text"]{
+    color: rgb(94, 90, 90);
+    font-weight: 800;
+    text-align: center;
+
+}.conversor input{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    padding: 15px;
+    border-radius: 20px;
+    margin: auto;
+    border: 2px solid yellow;
+}.conversor p{
+   width: 100px;
+    padding-right: 40px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Inter',sans-serif;
+    font-weight: 800;
+}
